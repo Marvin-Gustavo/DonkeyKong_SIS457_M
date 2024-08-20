@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Usuario\\OneDrive\\Documentos\\Unreal Projects\\DonkeyKong_SIS457_M\\Source\\DonkeyKong_SIS457_M\\DonkeyKong_SIS457_M.Build.cs",
+		"C:\\Users\\Usuario\\OneDrive\\Documentos\\Unreal Projects\\DonkeyKong_SIS457_M\\Source\\DonkeyKong_SIS457_M.Target.cs",
+		"C:\\Users\\Usuario\\OneDrive\\Documentos\\Unreal Projects\\DonkeyKong_SIS457_M\\Source\\DonkeyKong_SIS457_MEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

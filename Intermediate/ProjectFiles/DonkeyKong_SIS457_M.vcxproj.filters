@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DonkeyKong_SIS457_M.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3ECB1C4B-393B-449E-9927-9D9589A1A6E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong_SIS457_M.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DonkeyKong_SIS457_MEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E302DA91-644D-4428-808D-151F518E3A5D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DonkeyKong_SIS457_M">
+      <UniqueIdentifier>{662A3D44-99DD-45EE-A199-4C670C832C8C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457_M\cubo.cpp">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457_M\cubo.h">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_M.Build.cs">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_M.cpp">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_M.h">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.cpp">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.h">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.cpp">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.h">
+      <Filter>Source\DonkeyKong_SIS457_M</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

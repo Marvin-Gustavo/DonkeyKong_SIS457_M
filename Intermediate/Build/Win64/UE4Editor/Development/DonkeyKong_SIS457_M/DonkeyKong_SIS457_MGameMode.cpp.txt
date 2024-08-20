@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\Definitions.DonkeyKong_SIS457_M.h
+C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.generated.h
+C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Source\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.generated.h

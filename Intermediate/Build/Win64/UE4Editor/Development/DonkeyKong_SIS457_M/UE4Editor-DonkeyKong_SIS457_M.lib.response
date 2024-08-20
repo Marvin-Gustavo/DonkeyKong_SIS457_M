@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_SIS457_M.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\DonkeyKong_SIS457_MEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\cubo.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_M.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\cubo.gen.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_M.init.gen.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MCharacter.gen.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\DonkeyKong_SIS457_MGameMode.gen.cpp.obj"
+"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\Default.rc2.res"
+/OUT:"C:\Users\Usuario\OneDrive\Documentos\Unreal Projects\DonkeyKong_SIS457_M\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457_M\UE4Editor-DonkeyKong_SIS457_M.lib"

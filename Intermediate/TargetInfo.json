@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_SIS457_M",
+			"Path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Unreal Projects\\DonkeyKong_SIS457_M\\Source\\DonkeyKong_SIS457_M.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_SIS457_MEditor",
+			"Path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Unreal Projects\\DonkeyKong_SIS457_M\\Source\\DonkeyKong_SIS457_MEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
